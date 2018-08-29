@@ -7,6 +7,7 @@ What did you learn? What was your thought process? Possible problems? and so on.
 
 ## Rate it!
 In this little webapp you can rate ...it! "But what is 'it'?" you might say. That doesn't matter.
+The current version of the app can be found here https://ellie-app.com/3bLH8qX2nSYa1
 
 ### New requirements
 * Instead of the rating being showed as a number, it should be shown as 1 to 5 filled stars.
