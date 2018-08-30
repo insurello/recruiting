@@ -14,6 +14,6 @@ The current version of the app can be found here https://ellie-app.com/3bLH8qX2n
 * We also need a new "Reset" button that resets the rating value.
 
 ### Ship it
-When you are done with the new requirements hit save in the ellie-app code editor and copy the new URL to the app and paste it as a comment to this gist. Feel free to leave some comments about the experience and result with the URL.
+When you are done with the new requirements hit save in the ellie-app code editor and copy the new URL to the app and email it to [marcus@insurello.se](mailto:marcus@insurello.se?subject=[elm-test]%20Rate%20it%20new%20version) and [kristian.lundstrom@insurello.se](mailto:kristian.lundstrom@insurello.se?subject=[elm-test]%20Rate%20it%20new%20version) . Feel free to leave some comments about the experience and result with the URL.
 
 Good luck!
