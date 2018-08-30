@@ -2,8 +2,8 @@
 
 ## Overview
 
-After each step in the process the people interviewing or being involved in that step has a short meeting about how it went.
-The process can be terminated after any step if the interviewers find the candidate clearly unfit for some reason.
+After each step in the process the people interviewing or being involved in that step writes down thoughts for 4 min before discussing with anybody else, at least one good thing and one bad thing - without being affected by others influence, and then have a short meeting where the thoughts are shared.
+The process can be terminated after any step if the interviewers find the candidate unfit for some reason.
 Whenever we make a decision to move forward or to terminate we inform the candidate within 1 workday about the next
 step or tell her/him about the termination and we give some feedback of what we liked about the candidate and what we think was missing.
 
