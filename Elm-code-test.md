@@ -1,5 +1,5 @@
 # Elm code test
-This is a small code test in [elm-lang](http://elm-lang.org/). You are given an existing application and some new requirements.
+This is a small code test in [elm-lang](http://elm-lang.org/) which we do not expect you to already know. You are given an existing application and some new requirements.
 Your mission is to fulfill these requirement by changing the code in the existing application. 
 The main focus of the test is the discussion and code review afterwards. 
 What did you learn? What was your thought process? Possible problems and improvements? Was it boring? and so on.
