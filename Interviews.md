@@ -10,6 +10,8 @@ step or tell her/him about the termination and we give some feedback of what we 
 In any interview situation there should not be more than 2 of us interviewing at the same time. It can be very intimidating to sit in front of a "full panel" of people judging you and it might cause the candidate to not show who she/he really is.
 It is still a good idea for the candidate to meet several people within the team and company so have different people be in charge of different steps of the process. 
 
+In each meeting, think about the environment for the interview: avoid "panel positioning" (2 or more of us on one side and candidate alone on one side), a coffee table or lunch place could create an environment more suitable for creating a casual discussion and getting to know the person on the first meeting. Unless you are doing some kind of presentation test or stress test the more casual environment the better.
+
 Depending on the candidate we can have different tracks:
 ### Scenario 1
 Candidate with promising skills within our tech stack
@@ -39,6 +41,7 @@ We yay or nay
 2. We start by telling the candidate about ourselves personally, and what Insurello does and **what our values are**
 3. The candidate tells us about herself/himself
 4. Super casual talking and we try to get a "feel" on the candidate. Goals? Experiences? Hobbies?
+   - A question to the candidate about how she/he solves a tech/solution disagreement with team members could be interesting.
 5. We tell the candidate that we will get in touch again later the same day or the next work-day.
 6. We get in touch with the candidate and either terminate the process and provide some feedback or we continue and book the next meeting or send code test.
 
