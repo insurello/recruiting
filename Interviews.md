@@ -7,6 +7,8 @@ The process can be terminated after any step if the interviewers find the candid
 Whenever we make a decision to move forward or to terminate we inform the candidate within 1 workday about the next
 step or tell her/him about the termination and we give some feedback of what we liked about the candidate and what we think was missing.
 
+The interview process is also about us giving a good impression to the cadidate. We might lose great candidates if we don't seem to care much about them, if we are late or don't greet them properly for example.
+
 In any interview situation there should not be more than 2 of us interviewing at the same time. It can be very intimidating to sit in front of a "full panel" of people judging you and it might cause the candidate to not show who she/he really is.
 It is still a good idea for the candidate to meet several people within the team and company so have different people be in charge of different steps of the process. 
 
@@ -37,13 +39,18 @@ We yay or nay
 ```
 ## Details
 ### Meet and greet
-1. We tell the candidate about our interviewing process, which steps there are and that we give feedback within 1 workday after each step.
-2. We start by telling the candidate about ourselves personally, and what Insurello does and **what our values are**
-3. The candidate tells us about herself/himself
-4. Super casual talking and we try to get a "feel" on the candidate. Goals? Experiences? Hobbies?
+1. Meet the candidate *PROPERLY*. Show them respect by being on time and greet them by the door etc.
+   - We want to give the candidate a good first impression
+2. We tell the candidate about our interviewing process, which steps there are and that we give feedback within 1 workday after each step.
+3. We start by telling the candidate about ourselves personally, and what Insurello does and **what our values are**
+4. The candidate tells us about herself/himself
+5. Super casual talking and we try to get a "feel" on the candidate. Goals? Experiences? Hobbies?
    - A question to the candidate about how she/he solves a tech/solution disagreement with team members could be interesting.
-5. We tell the candidate that we will get in touch again later the same day or the next work-day.
-6. We get in touch with the candidate and either terminate the process and provide some feedback or we continue and book the next meeting or send code test.
+6. We tell the candidate that we will get in touch again later the same day or the next work-day.
+7. We get in touch with the candidate and either terminate the process and provide some feedback or we continue and book the next meeting or send code test.
+8. It's also important to say good bye properly. It can get awkward or confusing if someone just leaves mid meeting without saying good bye.
+  - Remember to thank the candidate for their time (or say thanks in some other nice way).
+  - We want to give the candidate a good "last" impression
 
 ### Communication and planning
 If we are quite sure of the candidate's technical skill level within our tech stack it we will try actively to test the candidate's communication skills and how well the candidate is at structuring her/his work and problem solving.
