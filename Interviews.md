@@ -92,3 +92,9 @@ What would you say we are looking for in a code test? Is it a valuable test?
 
 ### We yay or nay
 In the final step everyone who has been a part of the interview process share their thoughts about the candidate and decides if we should give her/him an offer or not. If one of us says No, it's a No.
+
+#### Our values
+Throughout the process we should talk a bit about our values as a company and our goals for the tech side of things. 
+For example we do code reviews and value creating solid solutions and well structured code that move us in the right direction. We believe a lot of developers wants to work like that and some come from a background where doing that was not appreciated enough. Highlighting this during some step could therefore make our workplace more interesting for the candidate.
+
+TODO: add more values
