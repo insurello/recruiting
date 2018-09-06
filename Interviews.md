@@ -17,16 +17,16 @@ In each meeting, think about the environment for the interview: avoid "panel pos
 Depending on the candidate we can have different tracks:
 ### Scenario 1
 Candidate with promising skills within our tech stack
-“`
+```
 Meet and greet 
 |
 Communication and planning
 |
 We yay or nay
-“`
+```
 ### Scenario 2
 Candidate lacks skills within our tech stack but is promising in other ways
-“`
+```
 Meet and greet
 |
 Code test (sent home)
@@ -36,7 +36,7 @@ Talk about solutions in code next meeting
 Communication and planning 
 |
 We yay or nay
-“`
+```
 ## Details
 ### Meet and greet
 1. Meet the candidate *PROPERLY*. Show them respect by being on time and greet them by the door etc.
