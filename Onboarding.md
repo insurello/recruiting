@@ -25,9 +25,7 @@ Trust can take some time to build up but the more we do together the faster it g
 
 ## The next steps :arrow_right:
 
-### Current work process
-
-Link
+### [Way of working](Way_of_working.md)
 
 ### Architecture
 
