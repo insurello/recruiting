@@ -8,16 +8,16 @@ To be able to work and bring good value to our customers and to understand and w
 important that we share some core values.
 
 * Moving in the right direction is more important than to be moving fast
-* You are a big part of us! We value you as a person and also your initiatives and thoughts
+* You are a big part of us! We value you as a person and also your initiatives and thoughts.
 
 Do you agree with these? Want to talk about them? Let us.
 
 ### We want to get to know eachother
-We want to create a team where we can have fun while moving the product forward.
+We strive for a team where we can have fun while moving the product forward.
 To be productive and explore awesome solutions to our problems the team needs trust. Trust in that
 your teammates are there to help you, trust in that everyone is doing the best they can under current circumstances,
 trust in that "failing" does not mean singleing out someone to blame but that failing sometimes is a must for getting
-closer to great solutions and is a part of our work.
+closer to great solutions and is a part of our work. Having trust for someone is however not something you just have automatically.
 
 There are a lot of ways to gain trust but a good start is to get to know eachother.
 Don't be afraid to talk to people! People might seem very busy but getting to know you and for you to know us is important.
