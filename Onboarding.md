@@ -10,7 +10,7 @@ important that we share some core values.
 * Moving in the right direction is more important than to be moving fast
 * You are a big part of us! We value you as a person and also your initiatives and thoughts.
 
-Do you agree with these? Want to talk about them? Let us.
+If you would like to talk about them we can do that.
 
 ### We want to get to know each other
 We strive for a team where we can have fun while moving the product forward.
