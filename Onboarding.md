@@ -43,7 +43,7 @@ Link
 
 In order for you to get into the team and product we will do a lot of pair programming. This is a great tool for sharing knowledge and to get to know each other at the same time. Pair programming can be quite intense which we are aware of so it will not be enforced to do all the time but highly encouraged.
 
-We use **Strong-style Pair Programming**: “In order for an idea to go from your head into the computer, it must go through someone else’s hands”. In other words you need to explain any solution so well so the other one gets it. Stealing the keyboard and rushing out the code for the solution you came up with often leads confusion and leave the other person behind in thought and makes it harder to catch up - which might ruin the whole session.
+We use **Strong-style Pair Programming**: “In order for an idea to go from your head into the computer, it must go through someone else’s hands”. In other words you need to explain any solution so well so the other one gets it. Stealing the keyboard and rushing out the code for the solution you came up with often leads confusion and leaves the other person behind in thought and makes it harder to catch up - which might ruin the whole session.
 
 Try to use a timer and rotate driver and navigator often, for example every 10 minutes.
 
