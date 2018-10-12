@@ -1,6 +1,6 @@
 # Onboarding developers :computer::gift_heart:
 
-Welcome to your ultimate onboarding guide (with no other options really) that will help kick start you into Insurello!
+Welcome to your ultimate onboarding guide (with no other options really) that will help kick start you at Insurello!
 
 ## Dev team's values
 
