@@ -32,6 +32,10 @@ Trust can take some time to build up but the more we do together the faster it g
 Link
 
 ### [Intro project](Intro_project.md) :signal_strength:
+This is a made up project we want onboarding developer to do. The goal is to get familiar with some
+of our systems core concepts and learn about the languages we use and the existing code base. It is
+also about learning about our developer environment: building locally with docker, using branches with
+github etc.
 
 ### Get to know the tools we use
 
