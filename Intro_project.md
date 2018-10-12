@@ -7,7 +7,7 @@ If the last one is selected, the form should show a textfield where the user has
 not happy with the result.
 
 This app has to be able to send this request to the back end but does no need to be able to represent any existing
-timelines in any way
+timelines in any way.
 
 ## Tips
 * Create a new elm file in the elm source root for app.insurello.se repository `app/src/` - this way your app can make
