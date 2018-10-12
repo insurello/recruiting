@@ -23,13 +23,15 @@ There are a lot of ways to gain trust but a good start is to get to know each ot
 Don't be afraid to talk to people! People might seem very busy but getting to know you and for you to know us is important.
 Trust can take some time to build up but the more we do together the faster it grows.
 
-## The next steps :arrow_right:
+## The next steps
 
-### [Way of working](Way_of_working.md)
+### [Way of working](Way_of_working.md) :book:
 
 ### Architecture
 
 Link
+
+### [Intro project](Intro_project.md) :signal_strength:
 
 ### Get to know the tools we use
 
