@@ -23,7 +23,7 @@ set some goal.
 ## Github
 All of our code base and a lot of other documentation are stored at github.
 ### Issues
-We contiously create new issus on github where we describe bugs/new requirements/upgrades/any work needed and we use them as a backlog.
+We continuously create new issues on github where we describe bugs/new requirements/upgrades/any work needed, and we use them as a backlog.
 New issues should also exist on one of [our project boards](https://github.com/orgs/insurello/projects)
 in github if it fits there. Issues can be assigned to the people working with it.
 
