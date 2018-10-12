@@ -2,7 +2,7 @@
 
 Welcome to your ultimate onboarding guide (with no other options really) that will help kick start you into Insurello!
 
-## Dev teams values
+## Dev team's values
 
 To be able to work and bring good value to our customers and to understand and work better together we believe it's
 important that we share some core values.
