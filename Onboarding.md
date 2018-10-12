@@ -25,11 +25,17 @@ Trust can take some time to build up but the more we do together the faster it g
 
 ## The next steps
 
+### Customer service course
+
+You will start your journey at Insurello with a 2 day customer service course which will be exactly the same as for
+customer service co-workers. Here you will learn a lot about insurances and get a good picture of our domain.
+This is also a good chance for you to hang out with your new collegaues at customer service.
+
 ### [Way of working](Way_of_working.md) :book:
+Read up on our current but ever changing way of working.
 
-### Architecture
-
-Link
+### Architecture (missing link)
+Get a picture of our system architecture and how the system works today.
 
 ### [Intro project](Intro_project.md) :signal_strength:
 This is a made up project we want onboarding developers to do. The goal is to get familiar with some
