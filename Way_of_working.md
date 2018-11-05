@@ -1,10 +1,10 @@
-### Way of working
+# Way of working
 
 The way we plan and do work together will probably always be changing and if it starts to differ from what this text
 is saying that is probably a good thing - it means we are evolving. Just remember to update it before the next person goes through the
 onboarding process (It's always OK to do a pull request).
 
-The latest source of truth is always the [CONTRIBUTING](https://github.com/insurello/insurello/CONTRIBUTING.md) file in each repository. Check out the one in the [insurello/insurello](https://github.com/insurello/insurello/CONTRIBUTING.md) repository for a good start.
+The latest source of truth is always the [CONTRIBUTING](https://github.com/insurello/insurello/blob/master/CONTRIBUTING.md) file in each repository. Check out the one in the [insurello/insurello](https://github.com/insurello/insurello/blob/master/CONTRIBUTING.md) repository for a good start.
 
 ## Retro/Demo/Planning
 
@@ -24,6 +24,7 @@ set some goal.
 
 ## Github
 All of our code base and a lot of other documentation are stored at github.
+
 ### Issues
 We continuously create new issues on github where we describe bugs/new requirements/upgrades/any work needed, and we use them as a backlog.
 New issues should also exist on one of [our project boards](https://github.com/orgs/insurello/projects)
