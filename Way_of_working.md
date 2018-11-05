@@ -4,6 +4,8 @@ The way we plan and do work together will probably always be changing and if it 
 is saying that is probably a good thing - it means we are evolving. Just remember to update it before the next person goes through the
 onboarding process (It's always OK to do a pull request).
 
+The latest source of truth is always the [CONTRIBUTING](https://github.com/insurello/insurello/CONTRIBUTING.md) file in each repository. Check out the one in the [insurello/insurello](https://github.com/insurello/insurello/CONTRIBUTING.md) repository for a good start.
+
 ## Retro/Demo/Planning
 
 ### Retro
