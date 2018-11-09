@@ -21,8 +21,6 @@ Candidate with promising skills within our tech stack
 Meet and greet 
 |
 Communication and planning
-|
-We yay or nay
 ```
 ### Scenario 2
 Candidate lacks skills within our tech stack but is promising in other ways
@@ -33,9 +31,7 @@ Code test (sent home)
 |
 Talk about solutions in code next meeting
 |
-Communication and planning 
-|
-We yay or nay
+Communication and planning
 ```
 ## Details
 ### Meet and greet
@@ -89,9 +85,6 @@ Perhaps the most important thing is to review the code and solution with the can
 
 #### Question
 What would you say we are looking for in a code test? Is it a valuable test?
-
-### We yay or nay
-In the final step everyone who has been a part of the interview process share their thoughts about the candidate and decides if we should give her/him an offer or not. If one of us says No, it's a No.
 
 #### Our values
 Throughout the process we should talk a bit about our values as a company and our goals for the tech side of things. 
