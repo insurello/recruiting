@@ -10,11 +10,11 @@ The current version of the app can be found here https://ellie-app.com/3bLH8qX2n
 
 ### New requirements
 * Instead of the rating being showed as a number, it should be shown as 1 to 5 filled stars.
-* Initially, before any rating as been provided 5 unfilled stars should be shown.
+* Initially, before any rating has been provided 5 unfilled stars should be shown.
 * We also need a new "Reset" button that resets the rating value.
 * Would also be nice to have a text field where the user can add a comment to complement the rating
 
 ### Ship it
-When you are done with the new requirements hit save in the ellie-app code editor and copy the new URL to the app and email it to [niklas@insurello.se](mailto:niklas@insurello.se?subject=[elm-test]%20Rate%20it%20new%20version), [marcus@insurello.se](mailto:marcus@insurello.se?subject=[elm-test]%20Rate%20it%20new%20version) and [kristian.lundstrom@insurello.se](mailto:kristian.lundstrom@insurello.se?subject=[elm-test]%20Rate%20it%20new%20version). Feel free to leave some comments about the experience and result with the URL.
+When you are done with the new requirements hit save in the ellie-app code editor and copy the new URL to the app and email it to [michel@insurello.se](mailto:michel@insurello.se?subject=[elm-test]%20Rate%20it%20new%20version) and [kristian.lundstrom@insurello.se](mailto:kristian.lundstrom@insurello.se?subject=[elm-test]%20Rate%20it%20new%20version). Feel free to leave some comments about the experience and result with the URL.
 
 Good luck!
