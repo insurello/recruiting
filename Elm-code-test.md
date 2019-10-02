@@ -1,20 +1,30 @@
 # Elm code test
+
 This is a small code test in [elm-lang](http://elm-lang.org/) which we do not expect you to already know. You are given an existing application and some new requirements.
-Your mission is to fulfill these requirement by changing the code in the existing application. 
-The main focus of the test is the discussion and code review afterwards. 
+Your mission is to fulfill these requirement by changing the code in the existing application.
+The main focus of the test is the discussion and code review afterwards.
 What did you learn? What was your thought process? Possible problems and improvements? Was it boring? and so on.
 
+These are some useful Elm resources:
+
+- https://package.elm-lang.org
+- https://guide.elm-lang.org/
+
 ## Rate it!
-In this little webapp you can rate ...it! But what is 'it'?. That doesn't matter.
-The current version of the app can be found here https://ellie-app.com/6PmN67yKqq8a1
+
+In this little webapp you can rate ...it! ...with horses! But what is 'it'?. That doesn't matter.
+
+The current version of the app can be found here https://ellie-app.com/3bLH8qX2nSYa1
 
 ### New requirements
-* Instead of the rating being showed as a number, it should be shown as 1 to 6 filled horses.
-* Initially, before any rating has been provided 6 unfilled horses should be shown.
-* We also need a new "Reset" button that resets the rating value.
-* Would also be nice to have a text field where the user can add a comment to complement the rating
+
+- Instead of the rating being showed as a number, it should be shown as 1 to 6 filled horses (♞).
+- Initially, before any rating has been provided 6 unfilled horses (♘) should be shown.
+- We also need a new "Reset" button that resets the rating value.
+- Would also be nice to have a text field where the user can add a comment to complement the rating
 
 ### Ship it
+
 When you are done with the new requirements hit save in the ellie-app code editor and copy the new URL to the app and email it to [michel@insurello.se](mailto:michel@insurello.se?subject=[elm-test]%20Rate%20it%20new%20version) and [kristian.lundstrom@insurello.se](mailto:kristian.lundstrom@insurello.se?subject=[elm-test]%20Rate%20it%20new%20version). Feel free to leave some comments about the experience and result with the URL.
 
 Good luck!
