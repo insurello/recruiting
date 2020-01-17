@@ -1,6 +1,6 @@
 # Elm code test
 
-This is a small code test in [elm-lang](http://elm-lang.org/) which we do not expect you to already know. You are given an existing application and some new requirements.
+This is a code test in [elm-lang](http://elm-lang.org/) which we do not expect you to already know. You are given an existing application and some new requirements.
 Your mission is to fulfill these requirement by changing the code in the existing application.
 The main focus of the test is the discussion and code review afterwards.
 What did you learn? What was your thought process? Possible problems and improvements? Was it boring? and so on.
@@ -20,8 +20,9 @@ The current version of the app can be found here https://ellie-app.com/6PDCnNzpN
 
 - Instead of the rating being showed as a number, it should be shown as 1 to 6 filled horses (♞).
 - Initially, before any rating has been provided 6 unfilled horses (♘) should be shown.
-- We also need a new "Reset" button that resets the rating value.
+- We also need a new "Reset" button that resets the rating.
 - Would also be nice to have a text field where the user can add a comment to complement the rating
+- Despite having a lot of users only a few of them are Rating it. If you have any ideas how to make it more attractive to rate it in the app please bring them to the meeting or try implementing them.
 
 ### Ship it
 
