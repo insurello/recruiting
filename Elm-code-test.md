@@ -26,6 +26,6 @@ The current version of the app can be found here https://ellie-app.com/6PDCnNzpN
 
 ### Ship it
 
-When you are done with the new requirements hit save in the ellie-app code editor and copy the new URL to the app and email it to [michel@insurello.se](mailto:michel@insurello.se?subject=[elm-test]%20Rate%20it%20new%20version) and [kristian.lundstrom@insurello.se](mailto:kristian.lundstrom@insurello.se?subject=[elm-test]%20Rate%20it%20new%20version). Feel free to leave some comments about the experience and result with the URL.
+When you are done with the new requirements hit save in the ellie-app code editor and copy the new URL to the app and email it as a response to the mail where you got the test from. Feel free to leave some comments about the experience and result with the URL.
 
 Good luck!
