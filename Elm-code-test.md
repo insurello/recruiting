@@ -4,7 +4,7 @@ There are two parts of this test.
 1. The first is in code where your goal is to improve an existing web app to make it comply with the given new requirements.
 2. In the second part you design the future backend system of the app. No code is needed here but be prepared to go through your idea at the code review meeting.
 
-## Rate it! - Elm code test
+## 1. Rate it! - Elm code test
 
 This is a code test in [elm-lang](http://elm-lang.org/) which we do not expect you to already know. You are given an existing application and some new requirements.
 Your mission is to fulfill these requirement by changing the code in the existing application.
@@ -37,7 +37,7 @@ When you are done with the new requirements hit save in the ellie-app code edito
 
 Good luck!
 
-## System Design
+## 2. System Design
 
 The Elm app is just the start of a proof of concept. For this system to become a reality the company needs your help to design the backend system to make this app into a real product.
 
