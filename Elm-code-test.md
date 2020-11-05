@@ -20,7 +20,7 @@ These are some useful Elm resources:
 
 In this little webapp you can rate ...it! ...with horses! But what is 'it'?. It is whatever the user wants to rate.
 
-The current version of the app can be found here https://ellie-app.com/6PDCnNzpN4Pa1
+The current version of the app can be found here https://ellie-app.com/bsdVBg8JSwRa1
 
 #### New requirements
 
