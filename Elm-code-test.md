@@ -43,9 +43,9 @@ The Elm app is just the start of a proof of concept. For this system to become a
 
 ### Requirements on the system
 
-* A users should be able to login and see their previous ratings.
+* A user should be able to login and see their previous ratings.
   - We don't want to handle the users' passwords.
-* A users should be able to create several ratings.
-* A users should be able to edit their ratings, but not other user's ratings.
+* A user should be able to create several ratings.
+* A user should be able to edit their ratings, but not other user's ratings.
 
 As mentioned you do not have to actually impement any of this. You only need to present your ideas in the way you see fit and it will be disucssed at the second part of the code review.
