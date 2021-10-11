@@ -48,4 +48,4 @@ The Elm app is just the start of a proof of concept. For this system to become a
 * A user should be able to create several ratings.
 * A user should be able to edit their ratings, but not other user's ratings.
 
-As mentioned you do not have to actually impement any of this. You only need to present your ideas in the way you see fit and it will be disucssed at the second part of the code review.
+As mentioned you do not have to actually impement any of this. You only need to present your ideas in the way you see fit and it will be discussed at the second part of the code review.
